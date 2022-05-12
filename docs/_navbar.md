@@ -28,9 +28,9 @@
   * [代码高亮](zh-cn/language-highlight.md)
 
 * spring全家桶
-  * [配置项](zh-cn/configuration.md)
-  * [主题](zh-cn/themes.md)
-  * [使用插件](zh-cn/plugins.md)
+  * [spring](springioc/README.md)
+  * [SpringMVC](springmvc/README.md)
+  * [springboot](springboot/README.md)
   * [Markdown 配置](zh-cn/markdown.md)
   * [代码高亮](zh-cn/language-highlight.md)
 
@@ -49,7 +49,7 @@
   * [代码高亮](zh-cn/language-highlight.md)
 
 * 数据库
-  * [配置项](zh-cn/configuration.md)
+  * [MYSQL](mysql/README.md)
   * [主题](zh-cn/themes.md)
   * [使用插件](zh-cn/plugins.md)
   * [Markdown 配置](zh-cn/markdown.md)
